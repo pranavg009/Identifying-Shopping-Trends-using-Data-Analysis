@@ -26,4 +26,5 @@ Retail Businesses: Optimize inventory, improve customer targeting, and plan seas
 E-commerce Platforms: Enhance customer personalization and predict future trends.
 
 **License**
+
 This project is licensed under the MIT License.
